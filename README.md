@@ -1,2 +1,5 @@
 # jupyter
-a repository for my jupyter notebook
+## a repository for my jupyter notebook
+## take this chance to manage my github to make it pure
+## take down some python code on my PC in the form of jupyter notebook
+## it contains machine learning program,deep learning program and programming with python
